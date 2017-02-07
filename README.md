@@ -13,6 +13,7 @@ This is the README for Lab 2 of EE183DA, Winter 2017. Given a wifi-capable micro
 - Dime (3x)
 - Paper Clip Large (1x)
 - Rubber Bands (4x)
+
 ## Operation Manual
 
 ## Demonstration
