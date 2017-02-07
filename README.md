@@ -12,16 +12,20 @@ I soon realized I needed some metallic object at the tip of my coffee stirrer ar
 
 ![alt text][logo_1]
 [logo_1]: https://github.com/Angraecinae/EE183DA_Lab_2/blob/master/16427307_1231730040251240_893262621608351921_n.jpg "Figure 1"
-Figure 1: 
+Figure 1: Image of striking element, dime duct-taped to coffee stirrer.
+
 ![alt text][logo_2]
 [logo_2]: https://github.com/Angraecinae/EE183DA_Lab_2/blob/master/16427464_1231730046917906_7447679213757880000_n.jpg "Figure 2"
 Figure 2:
+
 ![alt_text][logo_3]
 [logo_3]: https://github.com/Angraecinae/EE183DA_Lab_2/blob/master/16427631_1231730043584573_1406056857316235496_n.jpg "Figure 3"
 Figure 3:
+
 ![alt_text][logo_4]
 [logo_4]: https://github.com/Angraecinae/EE183DA_Lab_2/blob/master/16473467_1231730050251239_1158671850709158401_n.jpg "Figure 4"
-Figure 4:
+Figure 4: Image of whole device with glass bottles in position.
+
 ## Bill of Materials
 - ESP12e Microcontroller (1x | $5.95)
 - ESP8266 Shield (1x | $14.95)
