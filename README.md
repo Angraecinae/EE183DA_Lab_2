@@ -5,8 +5,11 @@ This is the README for Lab 2 of EE183DA, Winter 2017. Given a wifi-capable micro
 
 ## Design Description
 With the provided materials (microcontroller and two servos), I decided that two feasible methods for creating sound were either some guitar-like or drum-like mechanism. After testing some crude designs involving rubber bands as strings, I quickly discovered that the servos did not generate enough torque to adequately pluck a rubber band held at sufficient tension to generate a decent pitch, so I moved on to searching for a feasible drum-like design. 
+
 As I had two servos, it made the most sense to use one to rotate in the x-y plane and the other to rotate perpendicularly to the x-y plane so that I could have a range of areas to hit (thereby increasing the variety of generatable pitches) arranged in a semi-circle. Since my roommate, being premed, had recently consumed a large quantity of Starbucks coffee in glass containers, I decided to repurpose them for my project, adding water to control the pitch of each can. I found I could get approximately 5-6 decent pitches out of the set before the lowest pitch can overflowed and the highest pitch can was completely empty, which was sufficient for this project. I used a coffee stirrer as the arm as it was light and therefore not too much of a strain on the servo, and duct tape to hold everything in place. The paperclip/rubber band combo as the stand was something of an experiment and it seemed to work as I did not have stability issues with the bottom servo falling over or moving again after I implemented it. 
+
 I soon realized I needed some metallic object at the tip of my coffee stirrer arm as the wood wasn't generating enough sound, so I found some spare change and figured that the dime being the smallest would also be the lightest and most suitable for the servo arm. I also found that I would need to use a couple more dimes as counterweights to prevent the top servo from agitating too much and falling off. Even so, it was necessary for me to hold it steady as I had decided not to secure the connection between the servo axle and mount via a screw for ease of assembly/disassembly. All the materials apart from the core microcontroller and servos were all more or less household items that are readily available.
+
 ![alt text][logo_1]
 [logo_1]: https://github.com/Angraecinae/EE183DA_Lab_2/blob/master/16427307_1231730040251240_893262621608351921_n.jpg "Figure 1"
 Figure 1: 
@@ -33,6 +36,9 @@ Figure 4:
 
 ## Operation Manual
 The image below features the main webpage, which contains all the button functions. The notes 'G' through 'E' represent the six manual note options the user can click to play that particular note. The 'Calibrate' function simply runs the device in an ascending then descending scale to allow the user to move the glasses into place to ensure best contact between the striker and glasses. The 'Track 1' option under 'Play Songs' allows the user to play a preset musical track (I only had time to program one tune in, but it's not that difficult to add more).
+![alt_text][logo_5]
+[logo_5]: https://github.com/Angraecinae/EE183DA_Lab_2/blob/master/Capture.PNG "Figure 5"
+Figure 5: Screenshot of main webpage.
 
 ## Demonstration
 The below video demonstrates the glass xylophone in its auto mode, in which it plays Track 1, the melody of Ode to Joy from Beethoven's 9th. 
