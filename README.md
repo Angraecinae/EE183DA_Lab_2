@@ -48,9 +48,7 @@ Figure 5: Screenshot of main webpage.
 ## Demonstration
 The below video demonstrates the glass xylophone in its auto mode, in which it plays Track 1, the melody of Ode to Joy from Beethoven's 9th. 
 
-<a href="https://www.youtube.com/embed/nhIztsyDzXo
-" target="_blank"><img src="https://www.youtube.com/watch?v=nhIztsyDzXo&feature=youtu.be.jpg" 
-alt="EE183 Lab 2 Demonstration Video" width="240" height="180" border="10" /></a>
+[![IMAGE ALT TEXT HERE](http://img.youtube.com/vi/nhIztsyDzXo/0.jpg)](http://www.youtube.com/watch?v=nhIztsyDzXo)
 
 ## Future Improvement(s)
 Obviously, the use of duct tape, coffee stirrers, paper clip(s), and rubber bands were intended as low-cost materials with high ease-of-access for the purpose of prototyping and proof-of-concept. A more concrete version should make use of 3-D printing to make more secure mounts and joint connections for the two servos. Ideally, two standard servos should be used as the continuous-rotation servo is not precise enough without the use of guides to serve as a precision striker. The dimes were an easy metallic contact with clearer resonance as a striking element, and were also decent counterweights, but could be replaced by more formal materials. The coffee glasses could be replaced by larger and more resonant (and probably expensive) wine glasses with a broader range, to also allow for more notes to be played (currently limited to 5-6). Additionally, an expansion of its software capabilities, such as the ability to record and save tracks, would greatly increase its playability.   
